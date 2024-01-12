@@ -1,0 +1,131 @@
+commit 275a167acfa81cb3eb88a6986a930b4976b6d903
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Wed Dec 6 00:34:29 2023 -0500
+
+    model view
+
+commit b015b58157683b56000cbe37208271590a836ad7
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Wed Dec 6 00:33:03 2023 -0500
+
+    logs added, model view image, other updates
+
+commit 4b90fb04b8fe3518a28576f374a2950c42ebfa28
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Wed Nov 17 19:08:12 2021 -0500
+
+    Branched the hw1 branch to add the scripts to run the model inference tool. Also added the Logger class and used it in the code.
+
+commit 9f47531b25928156b6cd35a3186ceb5be4442be3
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Wed Sep 15 21:22:53 2021 -0400
+
+    Modified the build.xml file to be able to generated the javadoc
+
+commit 743561f87021a8e63661c321fedbf9e445e564a6
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Wed Sep 15 21:22:33 2021 -0400
+
+    For the MVC architecture pattern, added the TicTacToeBlock class. Modified the TicTacToeGame class to use the block. Also modified the test cases to cover the block. Updated the README file to mention the block.
+
+commit 439fa0f4bae50d29ccf440c36f84ee69c75f449d
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Wed Sep 15 21:13:08 2021 -0400
+
+    Renamed the class from TicTacToe to TicTacToeGame to improve understandability.
+
+commit 0e618b32bcfe48aa8b7e165b318454f72a19ea62
+Author: Yuriy Brun <brun@cs.umass.edu>
+Date:   Sun Oct 13 22:27:29 2019 -0400
+
+    removed deprecated functionality
+
+commit a6130adb7e0ff8057874789884d171a2515ec6fe
+Author: rjust <rjust.dev@gmail.com>
+Date:   Sat Oct 21 13:59:09 2017 -0400
+
+    Include all classes under the test directory when running tests.
+
+commit 3bf6a0849b950a69d6c27020e68c43880936bb60
+Author: rjust <rjust.dev@gmail.com>
+Date:   Fri Oct 20 21:43:07 2017 -0400
+
+    Upgraded Major.
+
+commit b77dd9160e7502d60d393e4371aa8973d31d7e80
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:41:16 2017 -0400
+
+    Tweaked the README.
+
+commit 27e3cf02f371afbd8b4c732516eb068826518458
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:36:33 2017 -0400
+
+    Tweaked the README.
+
+commit 540a2e62767382221df0e4e4b60d40cb66ae38f4
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:34:08 2017 -0400
+
+    Removed the instrumented classes, which are regenerated during the coverage analysis.
+
+commit 3c02f8f9f2163fa341a5b1238814a8397292da23
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:33:21 2017 -0400
+
+    Removed the redundant compilation from the coverage script.
+
+commit 58f0e67bd9afe08bdbb7545fd82f2ac127b0379c
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:31:35 2017 -0400
+
+    Treat any source file in the test directory as test class.
+
+commit d9601e20f1db06101335fdf56ea6fc1f3c1f25a6
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:29:09 2017 -0400
+
+    Added a meaningful example test.
+
+commit 3cd4116039f9525247b5f2747c0df9cbfd71db5e
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:25:10 2017 -0400
+
+    Added an explicit interpreter to show_mutant script.
+
+commit 50672a238e6ff87169f5cecc5d55f6ba165cdf8a
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 18:11:39 2017 -0400
+
+    Fixed a typo and the formatting in the README.
+
+commit 4ea31549e79a9124127f9eadfa7605171afbc551
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 16:39:11 2017 -0400
+
+    Added the triangle example.
+
+commit e5291859dfae0adf2149b0704f09a079e7c783c5
+Author: rjust <rjust.dev@gmail.com>
+Date:   Sun Oct 1 15:31:43 2017 -0400
+
+    Updated the README.
+
+commit 7ce82cc9c72878be07fde6955ce9238468d9f1b1
+Author: rjust <rjust.dev@gmail.com>
+Date:   Sun Sep 24 15:30:50 2017 -0400
+
+    Added a dependency.
+
+commit 34e22042286f573d47d69c93eafd24a4667de980
+Author: rjust <rjust.dev@gmail.com>
+Date:   Sun Sep 24 15:30:29 2017 -0400
+
+    Added the TicTacToe implementation.
+
+commit 6f4d4ad3dc8b38cb1e545dd53d2113452bc1d95e
+Author: René Just <rjust@users.noreply.github.com>
+Date:   Sun Oct 1 13:22:02 2017 -0400
+
+    Initial commit

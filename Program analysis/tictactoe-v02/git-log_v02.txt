@@ -1,0 +1,233 @@
+commit 2ff9a566d393176363fa30728a064fa02dc67507
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Wed Dec 6 00:34:17 2023 -0500
+
+    model view
+
+commit 8ed88c1d4951dd4db4d9513a81427c967d6050b2
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Wed Dec 6 00:31:39 2023 -0500
+
+    other updates
+
+commit e38664a9891f1a2a6342a722c1fc58f7c4fe57ca
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Wed Dec 6 00:31:27 2023 -0500
+
+    trace files
+
+commit 08baa2dc80557dfe8d9939cd23f608fa936a90d1
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Wed Dec 6 00:31:00 2023 -0500
+
+    logs added
+
+commit be258fc38aca15d52e4d8f3bbcc8055c1260b378
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Wed Nov 17 19:20:13 2021 -0500
+
+    Branched the v2.0.0 to add the model inference tool scripts. Also added the logger.Logger class and used it in the app.
+
+commit 5d62f00f376ac6e2678a2bf29778135592e66f59
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sun Nov 14 20:52:03 2021 -0500
+
+    Added an internal comment about applying the composite design pattern
+
+commit 88dc4f80f41cbf717d757e514ddf2d0bde25d9ab
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sun Nov 14 20:47:13 2021 -0500
+
+    Finished implementing the composite design pattern for the RowGameGUI. Modified the remaining code in response. All test cases pass.
+
+commit 845c2bb82d913df691dde1e8013a4ef2d6315ca3
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sun Nov 14 20:22:33 2021 -0500
+
+    Starting to implemented the composite design pattern for the RowGameGUI class.
+
+commit aed6d1c118ccdf0f42752eac38315de86acc28ec
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sun Nov 14 19:19:51 2021 -0500
+
+    Modified the TestExample test suite to add the testIllegalMove test case. All test cases pass.
+
+commit e4e05fbf6a66e75492482977f24ef3621db8ea39
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sun Nov 14 19:10:01 2021 -0500
+
+    Modified the TestExample test suite to add the checkInitialConfiguration helper method. Also modified this test suite to have the testNewGame test case use the helper method and added the testLegalMove test case.
+
+commit c3f60d5b2d1f2da102fc785a72dc567b66fc74cd
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sun Nov 14 18:49:15 2021 -0500
+
+    Modified the RowGameModel class to encapsulate the player and movesLeft fields. Added the Player enum class to improve the type safety of the player field. Updated the remaining code in response.
+
+commit 4ee0de6de7c6cb7673bf5fed24c11565488cfc5f
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sun Nov 14 17:31:09 2021 -0500
+
+    Added the BlockIndex class. Modified the RowGameController class to add the getBlockIndex method and use it in the move method. Also bug fixed the move method to use the getIsLegalMove/setIsLegalMove method to prevent illegal moves.
+
+commit caab1f91ccd0f7542eb80079fbb33d0e4b19028e
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sun Nov 14 16:47:17 2021 -0500
+
+    Bug fix for the resetGame method to update the final result appropriately
+
+commit 82871d76adb9a57f50ae7dd4ffa14f39d3f09332
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sat Oct 16 18:16:50 2021 -0400
+
+    Updated the README file to be consistent with the source code.
+
+commit 5140150dadc4a83fa10d29d6fb5d68f3e5fc6b83
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sat Oct 16 17:18:42 2021 -0400
+
+    Created the RowGameApp class and moved the main method to it.
+
+commit 2615c54c34f088798365a6d8f351ab94bbd1346f
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sat Oct 16 17:15:09 2021 -0400
+
+    Decomposed the TicTacToeGame class into the RowGameController and RowGameGUI classes. Updated the test suite. All tests pass.
+
+commit 6691377cd5d7695a840d872ab7b38839d9d59463
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sat Oct 16 14:26:15 2021 -0400
+
+    Extended the RowGameModel class to add the setter and getter methods for the finalResult field. Modified the TicTacToeGame class as needed. All test cases pass.
+
+commit a9cd3aa61b0fc1ca898bb261996479fbad5f141b
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sat Oct 16 13:57:14 2021 -0400
+
+    Renamed the TicTacToeBlock class as the RowGameBlock class. Updated the remaining code as needed. All test cases pass.
+
+commit 9b1354431db92a01111b8df5f8e51b85274656a1
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sat Oct 16 13:43:30 2021 -0400
+
+    Create the model package and moved the relevant classes to it. Update the remaining code as needed. All test cases pass.
+
+commit 170078e342ceb262a409f8fece755e96a16ae291
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Sat Oct 16 13:39:45 2021 -0400
+
+    Starting to apply the MVC architecture pattern. Created the RowGameModel class and moved the relevant fields to it. Updated the remaining code as needed. All test cases pass.
+
+commit 9f47531b25928156b6cd35a3186ceb5be4442be3
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Wed Sep 15 21:22:53 2021 -0400
+
+    Modified the build.xml file to be able to generated the javadoc
+
+commit 743561f87021a8e63661c321fedbf9e445e564a6
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Wed Sep 15 21:22:33 2021 -0400
+
+    For the MVC architecture pattern, added the TicTacToeBlock class. Modified the TicTacToeGame class to use the block. Also modified the test cases to cover the block. Updated the README file to mention the block.
+
+commit 439fa0f4bae50d29ccf440c36f84ee69c75f449d
+Author: hconboy@cs.umass.edu <hconboy@cs.umass.edu>
+Date:   Wed Sep 15 21:13:08 2021 -0400
+
+    Renamed the class from TicTacToe to TicTacToeGame to improve understandability.
+
+commit 0e618b32bcfe48aa8b7e165b318454f72a19ea62
+Author: Yuriy Brun <brun@cs.umass.edu>
+Date:   Sun Oct 13 22:27:29 2019 -0400
+
+    removed deprecated functionality
+
+commit a6130adb7e0ff8057874789884d171a2515ec6fe
+Author: rjust <rjust.dev@gmail.com>
+Date:   Sat Oct 21 13:59:09 2017 -0400
+
+    Include all classes under the test directory when running tests.
+
+commit 3bf6a0849b950a69d6c27020e68c43880936bb60
+Author: rjust <rjust.dev@gmail.com>
+Date:   Fri Oct 20 21:43:07 2017 -0400
+
+    Upgraded Major.
+
+commit b77dd9160e7502d60d393e4371aa8973d31d7e80
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:41:16 2017 -0400
+
+    Tweaked the README.
+
+commit 27e3cf02f371afbd8b4c732516eb068826518458
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:36:33 2017 -0400
+
+    Tweaked the README.
+
+commit 540a2e62767382221df0e4e4b60d40cb66ae38f4
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:34:08 2017 -0400
+
+    Removed the instrumented classes, which are regenerated during the coverage analysis.
+
+commit 3c02f8f9f2163fa341a5b1238814a8397292da23
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:33:21 2017 -0400
+
+    Removed the redundant compilation from the coverage script.
+
+commit 58f0e67bd9afe08bdbb7545fd82f2ac127b0379c
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:31:35 2017 -0400
+
+    Treat any source file in the test directory as test class.
+
+commit d9601e20f1db06101335fdf56ea6fc1f3c1f25a6
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:29:09 2017 -0400
+
+    Added a meaningful example test.
+
+commit 3cd4116039f9525247b5f2747c0df9cbfd71db5e
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 20:25:10 2017 -0400
+
+    Added an explicit interpreter to show_mutant script.
+
+commit 50672a238e6ff87169f5cecc5d55f6ba165cdf8a
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 18:11:39 2017 -0400
+
+    Fixed a typo and the formatting in the README.
+
+commit 4ea31549e79a9124127f9eadfa7605171afbc551
+Author: rjust <rjust.dev@gmail.com>
+Date:   Wed Oct 18 16:39:11 2017 -0400
+
+    Added the triangle example.
+
+commit e5291859dfae0adf2149b0704f09a079e7c783c5
+Author: rjust <rjust.dev@gmail.com>
+Date:   Sun Oct 1 15:31:43 2017 -0400
+
+    Updated the README.
+
+commit 7ce82cc9c72878be07fde6955ce9238468d9f1b1
+Author: rjust <rjust.dev@gmail.com>
+Date:   Sun Sep 24 15:30:50 2017 -0400
+
+    Added a dependency.
+
+commit 34e22042286f573d47d69c93eafd24a4667de980
+Author: rjust <rjust.dev@gmail.com>
+Date:   Sun Sep 24 15:30:29 2017 -0400
+
+    Added the TicTacToe implementation.
+
+commit 6f4d4ad3dc8b38cb1e545dd53d2113452bc1d95e
+Author: René Just <rjust@users.noreply.github.com>
+Date:   Sun Oct 1 13:22:02 2017 -0400
+
+    Initial commit
