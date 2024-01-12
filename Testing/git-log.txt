@@ -1,0 +1,249 @@
+commit bcc8d1dc99d46508128350f035985dcd794539ed
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Thu Oct 26 13:45:51 2023 -0400
+
+    test
+
+commit f24558f4c2eeb2a2c58c52f9235b0e975ed77c89
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Thu Oct 26 13:30:46 2023 -0400
+
+    commit
+
+commit bb0b93a958df3e2de01a70d0dfaae6fad74a0b8e
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Thu Oct 26 13:29:36 2023 -0400
+
+    Testing and Analysis
+
+commit da6a6bd57cd7266ed937b5c7e4d4eed3e9a99815
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Thu Oct 26 13:29:05 2023 -0400
+
+    Mutation Testing
+
+commit af7dd23303ea464866987b850a6e42de47cf0a45
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Thu Oct 26 13:28:53 2023 -0400
+
+    Decision Coverage
+
+commit 7ab583e49ece57ec93d12eb84814a944e1383553
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Thu Oct 26 13:28:39 2023 -0400
+
+    Statement Coverage
+
+commit 4c4dbf9dd6223f2354b298922dba29e35e9e0425
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Thu Oct 26 13:28:17 2023 -0400
+
+    readme update
+
+commit bcbe1059a4e54397ad714552c19ae5733307eb83
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Wed Oct 25 20:31:11 2023 -0400
+
+    setting up the environment
+
+commit 70deb5049f4b5f1bc49d84302164f4050d8f14f0
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Thu Oct 19 12:13:29 2023 -0400
+
+    readme update
+
+commit bf5f3f018095a6a9ddf17919bcd4e311f6caecc7
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Oct 18 21:50:23 2023 -0400
+
+    file update
+
+commit 6e9ee6cea352ff7208fd1e6e7aed265cec647422
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Oct 18 21:40:55 2023 -0400
+
+    random control introduced
+
+commit 681470953a6c502140ff3191a0599d1d77ebb787
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Oct 18 21:40:28 2023 -0400
+
+    Randomization control introduced
+
+commit 2e669dda3ff8e84563120479a0329c216dc7810d
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Oct 18 21:40:14 2023 -0400
+
+    readme update with venv
+
+commit a616c72e3b4af58f81f0ddda4a5300463e0f9b2a
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Oct 18 19:30:07 2023 -0400
+
+    OS independent update
+
+commit 2fc2aabc96d47005c9d9212672d7de85da4e3985
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Oct 18 19:29:37 2023 -0400
+
+    Set random seed
+
+commit 80138cb39bf33d7505a0db8cbbed8c045229ea50
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Oct 18 17:55:30 2023 -0400
+
+    Initial Test suit update
+
+commit bb6b9022b271d412688008af64934bf4145be4b4
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Wed Oct 18 16:36:36 2023 -0400
+
+    Update README.md
+    
+    The Coverage tool is actually using decision (i.e. branch) coverage and not condition coverage. Updated all of the directory/file names appropriately.
+
+commit 54d91d5565d40653fd644a27f68ee7597605612b
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Wed Oct 18 16:34:23 2023 -0400
+
+    Update README.md
+    
+    Fixed the formatting for the unittest tool font.
+
+commit f4a19393e28ed79ea5b3867aac5f7aed56bc4cac
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Wed Oct 18 16:33:56 2023 -0400
+
+    Update README.md
+    
+    Added more details about unittest.
+
+commit adddae52858fecd9ba3cd41f356e63bb508f0502
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Wed Oct 18 16:32:36 2023 -0400
+
+    Update test.sh
+    
+    Fixed a typo in the branch coverage folder name.
+
+commit 6cd7a9884311512dbf6e555c9e215ba98b8eb1a7
+Author: Heather Conboy <hconboy@wpa089.wpanet.cs.local>
+Date:   Wed Oct 18 16:31:14 2023 -0400
+
+    The Coverage tool is actually using decision (i.e. branch) coverage and not condition coverage. Updated all of the directory/file names appropriately.
+
+commit 399dfe99476effdc9bd967e8dc5c7e4a0d20867a
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Wed Oct 18 14:35:20 2023 -0400
+
+    Update test.sh
+    
+    Switched to using Unix-style python commands instead of Windows ones.
+
+commit ecc517e56bab5e54ee0e6969b7fc1ec55cbf6b24
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Wed Oct 18 14:29:28 2023 -0400
+
+    Update README.md
+    
+    Switched to using python 3 commands.
+    
+    Consistently used the term CFG instead of control flow diagram.
+
+commit 801a59b83093605f4b8b8da7918a9671535113aa
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Wed Oct 18 14:22:25 2023 -0400
+
+    Update mutation.sh
+    
+    Switched to using Unix-style commands instead of Window ones.
+
+commit 4a14aa423d7a0139dbfeb5378ca62f3b05600a35
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Oct 17 07:45:19 2023 -0400
+
+    Readme Image Add
+
+commit daa1a7338e03e4b278c032ea747ea2b8d93df4c8
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Oct 17 07:44:52 2023 -0400
+
+    Initial test script add
+
+commit 07725aba632093c15c55c07fbd4f0d98f0393c6c
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Oct 17 07:44:13 2023 -0400
+
+    initial test case update
+
+commit 7d22a267d98daae323418cf0f0fb0f40955dab06
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Oct 17 07:43:48 2023 -0400
+
+    shell scripts update
+
+commit 5fda3f0afdf92511ab10abba10022df448fabacc
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Oct 17 07:43:18 2023 -0400
+
+    CFG file update
+
+commit 3a3bd12d874689c66fa80b15f950b99bed08ac58
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Oct 17 07:42:58 2023 -0400
+
+    Readme Update
+
+commit 1f16bde5ccbb8932f2a5e4633a984794f116e1b8
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Sun Oct 15 13:39:12 2023 -0400
+
+    Update README.md
+    
+    Added another instruction for how to open a CFG file (in SVG format) in a web browser to visualize that CFG.
+
+commit fb68286a5364bdffe2bbaead79d1d54c1b59e6c2
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Sun Oct 15 13:27:04 2023 -0400
+
+    Update README.md
+    
+    Added the URL for the py2cfg library.
+
+commit ad1b8f9199d61704dc991ca87565401a7cc0e2df
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Sun Oct 15 13:23:50 2023 -0400
+
+    Update README.md
+    
+    Switched to always using pip3 instead of pip.
+
+commit 4f7e44818f58b9040ce8ec8e3f6c66fb035b7946
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Jul 19 16:01:03 2023 -0400
+
+    Shell scripts added
+
+commit 000560d899d701f22fa7e9bdc719832bfe288112
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Jul 19 16:00:28 2023 -0400
+
+    Source code files added
+
+commit a328b7fbb3aeeb8898454151cd19615670419b43
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Jul 19 15:58:04 2023 -0400
+
+    Required python packages for mutation-coverage analysis
+
+commit f561869f9764e986952268e952ada708d1c3779d
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Jul 19 15:56:29 2023 -0400
+
+    Readme Update
+
+commit 6d96c70efcaf31c2f78987a06ec302eb18a52c65
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Wed Jul 19 14:20:42 2023 -0400
+
+    Initial commit
