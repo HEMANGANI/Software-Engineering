@@ -1,0 +1,14 @@
+---
+:id: 199221371
+:submitters:
+- :name: Hemangani Nagarajan
+  :email: hemanganinag@umass.edu
+- :name: Harshita Loganathan
+  :email: hloganathan@umass.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-04 03:49:12.286472000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-03 20:49:12.286472000 Z
+:status: processed
+:score: 98.5
