@@ -1,0 +1,215 @@
+commit 43c245d67732467a9420c3e7bbcf899e7a5660d6
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Mon Nov 13 21:51:17 2023 -0500
+
+    jdoc
+
+commit b2d428a6ab3238bfd0ea09f7fd304b5a9c888ca6
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Mon Nov 13 21:49:24 2023 -0500
+
+    test cases update
+
+commit fcb36bdde603f7d9a36e99e1a2ba0c0df925aaeb
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Mon Nov 13 21:29:13 2023 -0500
+
+    test cases
+
+commit 10a85ae9b9aad4b07ca056931e9cf176b7a7eacd
+Author: Hemangani Nagarajan <nhema2231@gmail.com>
+Date:   Sun Nov 12 15:18:04 2023 -0500
+
+    undo function
+
+commit 62595ae69320c9793a2e37bfc79e04e92aeb78e6
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Mon Nov 6 09:49:19 2023 -0500
+
+    Update ExpenseTrackerView.java
+    
+    Bug report that the getTransactionsTable method was incorrectly returning a list of transactions. Bug fixed to return the table.
+
+commit a528e75e180a40babe23a9f51f8609fa9a60b411
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Wed Nov 1 14:47:33 2023 -0400
+
+    Update .gitignore
+    
+    Commented out the jdoc folder since the homework submissions ask for this folder and its contents to be included.
+
+commit e81bae1b98f737abf8cd7beb5a322d0d4f4787a0
+Author: Heather Conboy <hconboy@eduroamguest185.sys.cs.local>
+Date:   Mon Oct 30 10:40:08 2023 -0400
+
+    Modified the test suite to check that the transaction being added had the expected values.
+
+commit f2b1ec4871101f58aa2630ef0d4b10d11cef872f
+Author: Heather Conboy <hconboy@eduroamguest185.sys.cs.local>
+Date:   Mon Oct 30 09:50:20 2023 -0400
+
+    Added input validation for the Transaction constructor
+
+commit c5daae726d5a1019cec020e6b5f286ec3f6d4f97
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Mon Oct 30 09:41:02 2023 -0400
+
+    Update ExpenseTrackerModel.java
+    
+    Added another comment about encapsulation - data integrity.
+
+commit 200a02e04d5e533859bf89bf02f8a23dbac38898
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Mon Oct 30 09:40:18 2023 -0400
+
+    Update ExpenseTrackerModel.java
+    
+    Added input validation for the addTransaction method.
+
+commit 6c2890dfb72ff4fc1e52c2e791b8f7fa38063a1d
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Sat Oct 21 21:00:29 2023 -0400
+
+    Update ExpenseTrackerView.java
+    
+    Added a comment about how the row indices are being used to retrieve the transactions from the list.
+
+commit 5672b5aba74e5fbd95748f6a42be1cb6ec0a202b
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Sat Oct 21 20:57:11 2023 -0400
+
+    Update AmountFilter.java
+    
+    Added comments in the constructor and filter method providing more details about the solution.
+
+commit 739940a39d8d9d9a43408829b77661cc2398ec50
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Sat Oct 21 20:54:59 2023 -0400
+
+    Update CategoryFilter.java
+    
+    Added a comment about why the input validation is needed.
+
+commit 3e7f79ec4c945df379edcbc99b988246208f12ce
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Sat Oct 21 20:50:47 2023 -0400
+
+    Update TransactionFilter.java
+    
+    Added comments about applying the Strategy design pattern.
+
+commit f58e4b89a98f8c243520785a4f44cae4373167c6
+Author: Heather Conboy <hconboy@cs.umass.edu>
+Date:   Sat Oct 21 20:48:42 2023 -0400
+
+    Update ExpenseTrackerController.java
+    
+    Added comments for the Strategy design pattern implementation.
+
+commit d461945475a6e0b922806e142c1a7fdb6a5fcd5c
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Fri Oct 20 18:54:10 2023 -0400
+
+    Strategy Pattern Update
+
+commit fad0645653aac1f7aa38d8d9beef69d14b2e6661
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Sat Sep 2 02:43:16 2023 -0400
+
+    Build file update
+
+commit 2a7414c1afd28f8fe1382bcdbb53e4182514344a
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 29 14:49:00 2023 -0400
+
+    File Update
+
+commit de9f0d1aeb6673d29d8326fe94564b47bbabe6f6
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 29 14:48:49 2023 -0400
+
+    File Update
+
+commit d4fe87788f5f8c1cbea8e851746145aca940b305
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 29 14:48:24 2023 -0400
+
+    GUI Message update
+
+commit 3072fd566b6302243b6452180cb39af9cc6d55c8
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 29 14:48:07 2023 -0400
+
+    Test file updated
+
+commit f1c79aceeb8badaf22b0a49f1d3e694672c5ef11
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 29 14:47:50 2023 -0400
+
+    Filter Validation Added
+
+commit 259634390aea274536d4b4ea76d2db5f5250d061
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 22 08:47:44 2023 -0400
+
+    Test file Added
+
+commit 9e6418698aa5fe15ae7e964fdf0fa313b9ffd308
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 22 08:47:35 2023 -0400
+
+    Filter Files Added
+
+commit 84c0c5aa0d31b0853ffa363a8b9e3718d6867e5b
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 22 08:47:18 2023 -0400
+
+    File Update
+
+commit b2843a165d73051434dc646469e4abe2a615a43f
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 15 02:19:33 2023 -0400
+
+    View File added
+
+commit 346ecdb2b34f4f79beade170c5869dc45d13e169
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 15 02:17:54 2023 -0400
+
+    Immutable List Update
+
+commit b1134e32620561f1a31d0cdce7592c5ec20db612
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 15 01:43:32 2023 -0400
+
+    Filters applied by Strategy
+
+commit b34a8a6a22993925982840ff8f706fbe4507a46a
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 15 01:33:40 2023 -0400
+
+    Encapsulation on Transactions
+
+commit 8f4b731f45f2f96b81665d702d3adb0adc9624b4
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 15 01:33:00 2023 -0400
+
+    Filter files Added
+
+commit ab9a07499e6429b361975b80be9c99e7be10f612
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 8 21:42:49 2023 -0400
+
+    Filter by Category files added
+
+commit 830bbd4d64c3ba5d3014efd102e71e1da371e66e
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 1 14:49:49 2023 -0400
+
+    File Update
+
+commit 495a4ce4cdb38884d6266ab7fd0f158fa5ae769b
+Author: Mahbuba Tasmin <tasmin153@gmail.com>
+Date:   Tue Aug 1 11:52:42 2023 -0400
+
+    Initial commit
